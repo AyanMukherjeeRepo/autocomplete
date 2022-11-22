@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+#search-box {
+  width: 50%;
+  height: 30px;
+  font-size: 1rem;
+}
